@@ -10,7 +10,7 @@ exports.menu = (botname, pushname, salam) => {
 	return`Selamat ${salam} kak ${pushname}
 
 Saya ${botname}, Bot Ini Adalah Beta Multi-Device WhatsApp.
-Jika Kamu Menemukan Semacam Bug Atau Kesalahan Mohon Dimaklumi Dulu Ya, Lapor Owner Agar Segera Di Perbaiki🙏`
+Jika Kamu Menemukan Semacam Bug Atau Kesalahan Mohon Dimaklumi Dulu Ya 🙏`
 }
 
 //—————「 List 」—————//
@@ -473,7 +473,7 @@ Thanks!
   *Minat? Langsung chat aja ya cuy 🐦*
 
   *Contact person Owner* :
-  wa.me/${ownernomer}
+  wa.me/6281575886399
 `
 }
 
@@ -962,5 +962,7 @@ exports.thanksto = () => {
   *≻* Sanzy
   *≻* Nekel
   *≻* Bagas Prdn
+  *≻* Megumin
+  *≻* Ender
 `
 }
